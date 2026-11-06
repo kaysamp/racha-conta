@@ -10,7 +10,7 @@
 npm install
 npm run racha
 ```
-## O que ele mostra?
+## O que ele deve mostrar:
 
 ```
 pessoas na mesa: 4
